@@ -1,4 +1,5 @@
-复刻小红书
+复刻小红书-用gemini编写
+
 <img width="461" height="906" alt="home" src="https://github.com/user-attachments/assets/8034e5ba-2d87-4ab1-823a-18337764f039" />
 <img width="487" height="905" alt="2" src="https://github.com/user-attachments/assets/ea1bb393-e90b-461b-be2f-a4d476ac3395" />
 <img width="486" height="898" alt="3" src="https://github.com/user-attachments/assets/2d2c2cf1-8799-410b-a3d7-7336b87cd6ae" />
